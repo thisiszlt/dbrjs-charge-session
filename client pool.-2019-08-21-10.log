@@ -1,0 +1,151 @@
+{"data":'clientPool: {}',"date":"2019-08-21T10:37:50.588","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355074562 ] }',"date":"2019-08-21T10:38:00.588","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355083005 ] }',"date":"2019-08-21T10:38:10.588","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:38:20.588","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:38:30.588","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:38:40.590","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:38:50.589","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:39:00.589","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:39:10.590","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:39:20.589","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:39:30.590","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:39:40.591","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355184100 ],
+  '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355184103 ] }',"date":"2019-08-21T10:39:50.591","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:40:00.590","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355202916 ] }',"date":"2019-08-21T10:40:10.591","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355216215 ] }',"date":"2019-08-21T10:40:20.594","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:40:30.592","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355235070 ] }',"date":"2019-08-21T10:40:40.592","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:40:50.594","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:41:00.595","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355269809 ] }',"date":"2019-08-21T10:41:10.595","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:41:20.596","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:41:30.596","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:41:40.600","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:41:50.602","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355319484 ] }',"date":"2019-08-21T10:42:00.602","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:42:10.602","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355333232 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355337079 ] }',"date":"2019-08-21T10:42:20.602","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:42:30.608","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:42:40.610","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355360702 ] }',"date":"2019-08-21T10:42:50.611","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:43:00.610","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:43:10.611","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:43:20.610","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:43:30.611","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:43:40.611","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355421625 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355426274 ] }',"date":"2019-08-21T10:43:50.611","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355437613 ] }',"date":"2019-08-21T10:44:00.612","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:44:10.612","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:44:20.613","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355466856 ] }',"date":"2019-08-21T10:44:30.615","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355470751 ] }',"date":"2019-08-21T10:44:40.616","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355489039 ] }',"date":"2019-08-21T10:44:50.616","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355491148 ] }',"date":"2019-08-21T10:45:00.617","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355505987 ] }',"date":"2019-08-21T10:45:10.617","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355513169 ] }',"date":"2019-08-21T10:45:20.618","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355522179 ] }',"date":"2019-08-21T10:45:30.618","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:45:40.617","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:45:50.618","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:46:00.619","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:46:10.618","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355579523 ] }',"date":"2019-08-21T10:46:20.618","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:46:30.619","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:46:40.620","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:46:50.638","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:47:00.644","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:47:10.644","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:47:20.644","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355645953 ],
+  '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355645940 ] }',"date":"2019-08-21T10:47:30.644","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:47:40.660","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:47:50.661","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:48:00.662","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:48:10.662","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:48:20.668","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:48:30.669","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:48:40.670","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:48:50.670","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:49:00.670","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355742008 ],
+  '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355742015 ] }',"date":"2019-08-21T10:49:10.670","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:49:20.670","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:49:30.670","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355774069 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355774071 ] }',"date":"2019-08-21T10:49:40.669","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:49:50.670","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:50:00.671","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:50:10.672","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:50:20.697","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:50:30.697","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:50:40.699","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:50:50.699","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:51:00.701","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355867128 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355867130 ] }',"date":"2019-08-21T10:51:10.700","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:51:20.701","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355883108 ] }',"date":"2019-08-21T10:51:30.702","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:51:40.702","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:51:50.703","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:52:00.703","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:52:10.703","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355936062 ],
+  '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355939123 ] }',"date":"2019-08-21T10:52:20.705","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:52:30.704","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:52:40.705","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:52:50.705","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:53:00.705","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566355981109 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566355981113 ] }',"date":"2019-08-21T10:53:10.708","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:53:20.709","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:53:30.709","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356016096 ] }',"date":"2019-08-21T10:53:40.709","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:53:50.709","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:54:00.709","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356042970 ] }',"date":"2019-08-21T10:54:10.709","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356057263 ] }',"date":"2019-08-21T10:54:20.709","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:54:30.709","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:54:40.708","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:54:50.709","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356094125 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356094131 ] }',"date":"2019-08-21T10:55:00.708","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:55:10.737","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:55:20.737","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356128060 ] }',"date":"2019-08-21T10:55:30.739","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:55:40.740","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356149539 ] }',"date":"2019-08-21T10:55:50.741","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356154102 ] }',"date":"2019-08-21T10:56:00.741","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356169966 ] }',"date":"2019-08-21T10:56:10.740","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356171250 ] }',"date":"2019-08-21T10:56:20.740","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:56:30.741","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356191061 ],
+  '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356194188 ] }',"date":"2019-08-21T10:56:40.742","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:56:50.742","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356217258 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356217265 ] }',"date":"2019-08-21T10:57:00.743","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:57:10.743","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356235017 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356235018 ] }',"date":"2019-08-21T10:57:20.744","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:57:30.744","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356257153 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356257160 ] }',"date":"2019-08-21T10:57:40.745","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:57:50.745","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356274185 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356274186 ] }',"date":"2019-08-21T10:58:00.746","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:58:10.747","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:58:20.747","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356310177 ] }',"date":"2019-08-21T10:58:30.748","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:58:40.748","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:58:50.749","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:59:00.750","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356347193 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356347196 ] }',"date":"2019-08-21T10:59:10.751","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:59:20.751","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356365084 ],
+  '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356367241 ] }',"date":"2019-08-21T10:59:30.752","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: {}',"date":"2019-08-21T10:59:40.752","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
+{"data":'clientPool: { '♠a66f22c0-c3bc-11e9-a108-c5fd2e79ff90': [ 'a66f22c0-c3bc-11e9-a108-c5fd2e79ff90', 1566356385127 ],
+  '♠aa1917f0-c3bc-11e9-a108-c5fd2e79ff90': [ 'aa1917f0-c3bc-11e9-a108-c5fd2e79ff90', 1566356385132 ] }',"date":"2019-08-21T10:59:50.752","level":"INFO","category":"default","host":"DESKTOP-5OD2HI8","pid":"16164"}
